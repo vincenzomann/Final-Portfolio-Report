@@ -1,0 +1,92 @@
+\begin{thebibliography}{}
+
+\bibitem[Al-Ali et~al., 2017]{IoTBigData}
+Al-Ali, A., Zualkernan, I.~A., Rashid, M., Gupta, R., and Alikarar, M. (2017).
+\newblock A smart home energy management system using iot and big data
+  analytics approach.
+\newblock {\em IEEE Transactions on Consumer Electronics}, 63(4):426--434.
+
+\bibitem[Azni et~al., 2016]{androidhas}
+Azni, M.~N., Vellasami, L., Zianal, A., Mohammed, F., Daud, N.~M., Vejasegaran,
+  R., Basharudin, N., Jusoh, M., Azir, K., and Kan, P.~E. (2016).
+\newblock Home automation system with android application.
+\newblock In {\em Electronic Design (ICED), 2016 3rd International Conference
+  on}, pages 299--303. IEEE.
+
+\bibitem[Dahmani et~al., 2016]{lossofauto}
+Dahmani, K., Tahiri, A., Habert, O., and Elmeftouhi, Y. (2016).
+\newblock An intelligent model of home support for people with loss of
+  autonomy: A novel approach.
+\newblock In {\em Control, Decision and Information Technologies (CoDIT), 2016
+  International Conference on}, pages 182--185. IEEE.
+
+\bibitem[Fortunato and Bernardino, 2018]{pwa}
+Fortunato, D. and Bernardino, J. (2018).
+\newblock Progressive web apps: An alternative to the native mobile apps.
+\newblock In {\em 2018 13th Iberian Conference on Information Systems and
+  Technologies (CISTI)}, pages 1--6. IEEE.
+
+\bibitem[Frustaci et~al., 2017]{evaluateiotsecurity}
+Frustaci, M., Pasquale, P., Gianluca, A., and Fortino, G. (2017).
+\newblock Evaluating critical security issues of the iot world: Present and
+  future challenges.
+\newblock {\em IEEE Internet of Things Journal}.
+
+\bibitem[Ghaffarian-Hoseini et~al., 2016]{futureofsmarthomes}
+Ghaffarian-Hoseini, A., Tookey, J., Omrany, H., Fleury, A., Naismith, N., and
+  Ghaffarian-Hoseini, M. (2016).
+\newblock Future of smart homes: Application of intelligent technologies
+  towards smarter urban future.
+
+\bibitem[Hussain et~al., 2015]{elderlydisabled}
+Hussain, A., Wenbi, R., Silva, A., Nadher, M., and Mudhish, M. (2015).
+\newblock Health and emergency-care platform for the elderly and disabled
+  people in the smart city.
+\newblock {\em Journal of Systems and Software}, 110:253--263.
+
+\bibitem[Joshi et~al., 2016]{iotlegislation}
+Joshi, R., Kulkarni, C., Patki, A., and Wani, P. (2016).
+\newblock Emerging trends in iot standards and legislation.
+\newblock In {\em Internet of Things and Applications (IOTA), International
+  Conference on}, pages 373--378. IEEE.
+
+\bibitem[Kshirsagar et~al., 2018]{homeiot}
+Kshirsagar, P., Sondrikar, R., Kamble, A., Humane, A., and Thakare, A. (2018).
+\newblock Home automation using iot.
+\newblock College of Engineering \& Management.
+
+\bibitem[Ling et~al., 2017]{smartplug}
+Ling, Z., Luo, J., Xu, Y., Gao, C., Wu, K., and Fu, X. (2017).
+\newblock Security vulnerabilities of internet of things: A case study of the
+  smart plug system.
+\newblock {\em IEEE Internet of Things Journal}, 4(6):1899--1909.
+
+\bibitem[Mendes et~al., 2015]{smarthomecomms}
+Mendes, T.~D., Godina, R., Rodrigues, E.~M., Matias, J.~C., and Catal{\~a}o,
+  J.~P. (2015).
+\newblock Smart home communication technologies and applications: Wireless
+  protocol assessment for home area network resources.
+\newblock {\em Energies}, 8(7):7279--7311.
+
+\bibitem[Sullivan, 2018]{sensorsinhealthcare}
+Sullivan, M. (2018).
+\newblock {\em Internet of Things (IoT) Sensors in Healthcare: Global Markets
+  and Technologies}.
+\newblock BCC Research.
+
+\bibitem[Thibaud et~al., 2018]{iotehs}
+Thibaud, M., Chi, H., Zhou, W., and Piramuthu, S. (2018).
+\newblock Internet of things (iot) in high-risk environment, health and safety
+  (ehs) industries: A comprehensive review.
+\newblock {\em Decision Support Systems}, 108:79--95.
+
+\bibitem[Waters, 2018]{ukenergy}
+Waters, L. (2018).
+\newblock {\em ENERGY CONSUMPTION IN THE UK}.
+\newblock Department for Business, Energy \& Industrial Strategy.
+
+\bibitem[Yohannes~Tarekegn, 2016]{PrivacyImpact}
+Yohannes~Tarekegn, B. (2016).
+\newblock Associating the impact of smart home technologies on privacy.
+
+\end{thebibliography}
